@@ -1,0 +1,3 @@
+Doing the assignment for Git Basics in The Odin Project!
+First git assignment. Going well.
+Although after my website, I knew most of this lol
